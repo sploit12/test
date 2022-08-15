@@ -1,8 +1,8 @@
 {
-    "url": "//raw.githubusercontent.com/sploit12/test/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/sploit12/test/main/test.yaml",
     "urls": [
         {
-            "url": "//raw.githubusercontent.com/sploit12/test/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/sploit12/test/main/test.yaml",
             "name": "Foo"
         }
     ]
